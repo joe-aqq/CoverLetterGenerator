@@ -1,0 +1,13 @@
+J:\My Code\C#\CoverLetterGenerator\CoverLetterGenerator\obj\Debug\CoverLetterGenerator.csprojAssemblyReference.cache
+J:\My Code\C#\CoverLetterGenerator\CoverLetterGenerator\obj\Debug\CoverLetterGenerator.Properties.Resources.resources
+J:\My Code\C#\CoverLetterGenerator\CoverLetterGenerator\obj\Debug\CoverLetterGenerator.csproj.GenerateResource.cache
+J:\My Code\C#\CoverLetterGenerator\CoverLetterGenerator\obj\Debug\CoverLetterGenerator.csproj.CoreCompileInputs.cache
+J:\My Code\C#\CoverLetterGenerator\CoverLetterGenerator\bin\Debug\itextsharp.dll
+J:\My Code\C#\CoverLetterGenerator\CoverLetterGenerator\bin\Debug\itextsharp.xml
+J:\My Code\C#\CoverLetterGenerator\CoverLetterGenerator\obj\Debug\CoverLetterGenerator.csproj.CopyComplete
+J:\My Code\C#\CoverLetterGenerator\CoverLetterGenerator\obj\Debug\CoverLetterGenerator.CoverLetterGenerator.resources
+J:\My Code\C#\CoverLetterGenerator\CoverLetterGenerator\bin\Debug\Cover Letter Generator.exe.config
+J:\My Code\C#\CoverLetterGenerator\CoverLetterGenerator\bin\Debug\Cover Letter Generator.exe
+J:\My Code\C#\CoverLetterGenerator\CoverLetterGenerator\bin\Debug\Cover Letter Generator.pdb
+J:\My Code\C#\CoverLetterGenerator\CoverLetterGenerator\obj\Debug\Cover Letter Generator.exe
+J:\My Code\C#\CoverLetterGenerator\CoverLetterGenerator\obj\Debug\Cover Letter Generator.pdb
